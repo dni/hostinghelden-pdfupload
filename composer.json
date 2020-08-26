@@ -1,0 +1,23 @@
+{
+    "name": "hostinghelden/hostinghelden-pdfupload",
+    "description": "uploads pdf's in wysiwyg",
+    "require": {
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Hostinghelden/Pdfupload"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Daniel Krahofer",
+            "homepage": "https://www.hostinghelden.at/",
+            "role": "Developer"
+        }
+    ]
+}
